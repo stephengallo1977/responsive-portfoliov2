@@ -6,6 +6,21 @@ body {
   background: url("../images/concrete_seamless.png");
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 * {
   box-sizing: border-box;
 }
